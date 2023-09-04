@@ -1,4 +1,4 @@
-# recipeFinder-web
+# recipeFinder-vue
 recipe websdite made using vue-js
 
 ### Installation
